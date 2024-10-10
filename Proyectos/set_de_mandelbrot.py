@@ -22,4 +22,6 @@ for i in range(nframes):  #Bucle que aplica la función que retorna la cantidad 
     #print(a)
 
 plt.imshow(a, cmap='hot')  #Visualización de la matriz con un mapa de densidades
+plt.axis('off')
+plt.title("Set de Mandelbrot")
 plt.show()

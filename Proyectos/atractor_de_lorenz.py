@@ -41,7 +41,8 @@ for i in range(1,nframes):
 #plt.plot(ts , sol[:-1,1],color='red')  #y en función de t, Figura 4
 plt.plot(sol[:,0],sol[:,2],color='k')  #z en función de x Figura 5 si sigma = 109, Figura 6 si sigma = 10
 
+
 #ax = plt.figure().add_subplot(projection='3d') 
 #ax.plot(sol[:,0],sol[:,1],sol[:,2])  #Proyección en 3d
-
+plt.title("Atractor de Lorenz")
 plt.show()
