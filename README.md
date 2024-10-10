@@ -7,4 +7,4 @@
 *Set de Mandelbrot*
 
 https://github.com/user-attachments/assets/f7e50d54-8246-4ad4-88f5-eddb1f50ad71
-*Animación en Manim*
+
