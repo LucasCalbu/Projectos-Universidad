@@ -1,10 +1,10 @@
 
 
 ![alt text](https://github.com/LucasCalbu/Proyectos-Universidad/blob/main/Proyectos/atractor_de_lorenz.png)
-#Atractor de Lorenz
+*Atractor de Lorenz*
 
 ![alt text](https://github.com/LucasCalbu/Proyectos-Universidad/blob/main/Proyectos/set_de_mandelbrot_figura.png)
-#Set de Mandelbrot
+*Set de Mandelbrot*
 
 https://github.com/user-attachments/assets/f7e50d54-8246-4ad4-88f5-eddb1f50ad71
-#Animación en Manim
+*Animación en Manim*
